@@ -23,6 +23,14 @@
 
 <br>
 
+<br>
+  
+  <div>
+    <a href="https://github.com/fernandaneeri/">
+    <img height="160em" src=https://github-readme-stats.vercel.app/api?username=fernandaneeri>
+    <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaneeri&layout=compact>  
+  </div>
+
 
 <!--
 <h3> Languages and Tools </h3>
@@ -36,15 +44,6 @@
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>   
   </div>
-
-<br>
-  
-  <div>
-    <a href="https://github.com/fernandaneeri/">
-    <img height="160em" src=https://github-readme-stats.vercel.app/api?username=fernandaneeri>
-    <img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaneeri&layout=compact>  
-  </div>
-
 
 
 
