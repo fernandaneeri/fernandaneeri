@@ -3,11 +3,11 @@
 
 <h3> About me </h3>
 
-:mortar_board: I'm studying Analysis and Systems Development  
+:mortar_board: I'm graduated  Analysis and Systems Development  
 
-:computer: I’m currently working on **Application Developer at @IBM**
+:computer: I’m currently not working
 
-:books: I’m currently learning **Java, HTML, CSS, JavaScript, PL/SQL**
+:books: I’m currently learning **Power BI, Excel and SQL**
 
 :house: I’m from **Brazil**
 
@@ -23,6 +23,8 @@
 
 <br>
 
+
+<!--
 <h3> Languages and Tools </h3>
 
 
@@ -45,7 +47,7 @@
 
 
 
-<!--
+
 **fernandaneeri/fernandaneeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
